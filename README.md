@@ -1,7 +1,7 @@
 # Description:
 The Dangerous Farm Insects Image Dataset is a curated collection of images featuring 3 different types of insects commonly found in agricultural settings. This dataset provides valuable visual resources for studying, identifying, and understanding the characteristics of these potentially harmful insects. Each insect is represented by multiple high-quality images, showcasing their distinct features, colors, and patterns.
 
-## Dataset Link : https://www.kaggle.com/datasets/tarundalal/dangerous-insects-dataset/data
+### Dataset Link : https://www.kaggle.com/datasets/tarundalal/dangerous-insects-dataset/data
 
 ## Models
 ### 1. Convolutional Neural Network (CNN)
@@ -25,11 +25,5 @@ The Dangerous Farm Insects Image Dataset is a curated collection of images featu
 - Each model has been trained and evaluated using appropriate datasets.
 - The choice of models was based on their performance in similar image classification tasks and their suitability for our dataset.
 
-## How to Use
-1. Clone the repository: `git clone https://github.com/yourusername/insect-classification.git`
-2. Navigate to the project directory: `cd insect-classification`
-3. Install the necessary dependencies: `pip install -r requirements.txt`
-4. Run the model training script: `python train_model.py`
-5. Test the trained models: `python test_model.py`
 
 Feel free to explore and modify the code to suit your needs!
