@@ -9,10 +9,10 @@ The Dangerous Farm Insects Image Dataset is a curated collection of images featu
 - It consists of convolutional layers followed by pooling layers and fully connected layers.
 - We have implemented a basic CNN architecture for this project.
 
-### 2. ResNet
-- ResNet (Residual Network) is a deep learning architecture that introduced the concept of residual learning.
-- It allows training very deep neural networks effectively by using skip connections.
-- We have used a pre-trained ResNet model for transfer learning in this project.
+### 2. InceptionV3
+- InceptionV3 is a deep learning architecture that incorporates various convolutional filter sizes within the same layer.
+- It is known for its efficiency and has been widely used in image classification tasks.
+- We have used a pre-trained InceptionV3 model for transfer learning in this project.
 
 ### 3. VGG19
 - VGG19 is another deep learning architecture known for its simplicity and effectiveness.
